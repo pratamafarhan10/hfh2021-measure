@@ -6,7 +6,7 @@
       </div>
       <div class="row justify-content-center">
         <h5 class="text-secondary">
-          we are a group of creative and innovative people to solve humanity
+          We are a group of creative and innovative people to solve humanity
           problems
         </h5>
       </div>
@@ -46,7 +46,7 @@
         <div class="col-12 col-md-6 d-flex justify-content-center mt-2">
           <div class="card more-rounded">
             <img
-              src="../assets/voice.png"
+              src="../assets/avatar.png"
               class="card-img-top mx-auto"
               alt="voice"
             />
@@ -105,9 +105,8 @@
           "
         >
           <p class="text-lg">
-            We want to provide water equality, everyone should have access for
-            good water quality and we want to going up against people who try to
-            privatized water.
+            We want to provide water equality, everyone should have access to
+            good clean water and we taking a stand and going up against corporations that want to privatize our basic human rights.
           </p>
         </div>
       </div>
@@ -131,7 +130,7 @@
           "
         >
           <p class="text-lg">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto officia, sequi itaque voluptatum ex at, cupiditate delectus aliquam quo nostrum ea quis eos quas! Reiciendis iure blanditiis quaerat animi dolor!
+            We provide our users with a platform to speak up and speak out against those who see us as just another number on a spreadsheet. We help hold these institutions accountable, through community and technological advancement.
           </p>
         </div>
         <div
@@ -183,7 +182,7 @@
           "
         >
           <p class="text-lg">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nesciunt ex ipsum culpa rerum reprehenderit ducimus voluptates? Dolor, esse asperiores? Earum provident voluptatibus, saepe illum vel eligendi reprehenderit tempore illo suscipit.
+            We do it through TDS testing, geographical surveying (data is provided by our users), and your local state consensus.
           </p>
         </div>
       </div>

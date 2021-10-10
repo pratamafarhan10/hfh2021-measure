@@ -8,7 +8,7 @@
             Welcome to <img src="../assets/logo.png" alt="Logo" width="270" height="120" />
           </p>
           <p class="text-secondary">
-            A human body is 70% water and everyone would want their 70% water to
+            The human body is 70% water and everyone would want their 70% water to
             be good water.
           </p>
           <a class="btn btn-primary btn-purple" href="https://www.figma.com/proto/nufJEV4ooK7NHTklqLMo8R/Hacks4Humanity?page-id=3%3A32&node-id=4%3A170&viewport=243%2C48%2C0.37&scaling=scale-down&starting-point-node-id=5%3A2275" target="_blank"
@@ -36,10 +36,7 @@
         </div>
         <div class="col-12 col-md-6">
           <p class="text-md">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis
-            officia dolorum, quo non reprehenderit facere, itaque consequuntur
-            odio deserunt impedit, in ab laboriosam aut quis modi enim obcaecati
-            natus libero.
+            Everyone can use our solution. We all need clean water for every one to use. Whether you're wealthy, economically challenged, we all need it no matter what. Water is a human basic right.
           </p>
         </div>
       </div>
