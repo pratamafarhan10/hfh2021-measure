@@ -18,7 +18,7 @@
         <div class="col-12 col-md-6 d-flex justify-content-center mt-2">
           <div class="card more-rounded">
             <img
-              src="../assets/voice.png"
+              src="../assets/christine.png"
               class="card-img-top mx-auto"
               alt="voice"
             />
@@ -33,7 +33,7 @@
         <div class="col-12 col-md-6 d-flex justify-content-center mt-2">
           <div class="card more-rounded">
             <img
-              src="../assets/voice.png"
+              src="../assets/rachel.png"
               class="card-img-top mx-auto"
               alt="voice"
             />

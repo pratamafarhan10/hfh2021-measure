@@ -5,14 +5,13 @@
       <div class="row align-items-center">
         <div class="col-12 col-md-5 col-lg-6">
           <p class="text-lg text-start text-md-start font-weight-bold">
-            Welcome to <span class="text-secondary">mea</span
-            ><span style="color: #ff5c58">SURE</span>
+            Welcome to <img src="../assets/logo.png" alt="Logo" width="270" height="120" />
           </p>
           <p class="text-secondary">
             A human body is 70% water and everyone would want their 70% water to
             be good water.
           </p>
-          <a class="btn btn-primary btn-purple" href="#"
+          <a class="btn btn-primary btn-purple" href="https://www.figma.com/proto/nufJEV4ooK7NHTklqLMo8R/Hacks4Humanity?page-id=3%3A32&node-id=4%3A170&viewport=243%2C48%2C0.37&scaling=scale-down&starting-point-node-id=5%3A2275" target="_blank"
             >Download our app now</a
           >
         </div>
@@ -127,6 +126,10 @@ export default {
 
 .btn-purple:hover {
   background-color: #ff5c58;
+}
+
+.btn-purple:active {
+  background-color: #ff5c58 !important;
 }
 
 .more-rounded {
