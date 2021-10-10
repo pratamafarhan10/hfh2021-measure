@@ -2,7 +2,7 @@
   <nav class="navbar sticky-top navbar-expand-lg navbar-light bg-white pt-0">
     <div class="container">
       <a class="navbar-brand" href="/">
-        <img src="../assets/logo.png" alt="Logo" width="250" height="75" />
+        <img src="../assets/logo.png" alt="Logo" width="200" height="55" />
       </a>
       <button
         class="navbar-toggler"
@@ -20,6 +20,9 @@
         <ul class="navbar-nav mr-auto">
           <li class="nav-item">
             <router-link class="nav-link" to="/">Home</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link class="nav-link" to="/about">About</router-link>
           </li>
         </ul>
       </div>
