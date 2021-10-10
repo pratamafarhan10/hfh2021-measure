@@ -1,21 +1,18 @@
 <template>
   <div>
     <!-- Hero -->
-    <section class="mt-2" id="#">
+    <section class="mt-5" id="#">
       <div class="row align-items-center">
         <div class="col-12 col-md-5 col-lg-6">
-          <p class="text-lg text-start text-md-start">
+          <p class="text-lg text-start text-md-start font-weight-bold">
             Welcome to <span class="text-secondary">mea</span
             ><span style="color: #ff5c58">SURE</span>
           </p>
-          <!-- <p class="text-lg font-weight-bold">
-            mea<span style="color: #FF5C58">SURE</span>
-          </p> -->
           <p class="text-secondary">
             A human body is 70% water and everyone would want their 70% water to
             be good water.
           </p>
-          <a class="btn btn-primary btn-purple" href="/equality-demand"
+          <a class="btn btn-primary btn-purple" href="#"
             >Download our app now</a
           >
         </div>
@@ -27,8 +24,8 @@
 
     <!-- solution -->
     <section class="mt-5" id="solution">
-      <div class="row justify-content-center mb-3">
-        <h1>Who Can Use Our Solution?</h1>
+      <div class="row mb-5">
+          <h1>Who Can Use Our Solution?</h1>
       </div>
       <div class="row align-items-center">
         <div class="col-12 col-md-6">
@@ -39,14 +36,19 @@
           />
         </div>
         <div class="col-12 col-md-6">
-          <p class="text-md">In short, anyone can use our solution.</p>
+          <p class="text-md">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis
+            officia dolorum, quo non reprehenderit facere, itaque consequuntur
+            odio deserunt impedit, in ab laboriosam aut quis modi enim obcaecati
+            natus libero.
+          </p>
         </div>
       </div>
     </section>
 
     <!-- Values -->
     <section class="mt-5" id="values">
-      <div class="row justify-content-center">
+      <div class="row justify-content-start mb-5">
         <h1>Our Values</h1>
       </div>
       <div class="row align-items-start">
@@ -111,7 +113,7 @@ export default {
 
 <style scoped>
 .text-lg {
-  font-size: 2rem;
+  font-size: 4rem;
 }
 
 .text-md {
